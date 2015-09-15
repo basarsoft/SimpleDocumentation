@@ -51,6 +51,10 @@ Dikkat edilmesi gereken nokta bağlantıların `hash` olarak verildiğidir. Uygu
 `ìndex.md` dosyası ilk açılan sayfadır. Bu sayfadan sonra diğer bağlantılar ile istenilen konumlara bağlantı verilerek navigasyon  işlemi sağlanabilir. Bu dosyanın içerisinde MD formatının sağladığı her türlü özelliği kullanabilirsiniz.
 
 
-#### İlgili Projeler
-[Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
-[Marked On-the-fly MD Renderer](https://github.com/chjj/marked)
+##### Related
+
+| İlgili Projeler  |
+|--------|
+| [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)       |
+| [Marked On-the-fly MD Renderer](https://github.com/chjj/marked) |
+
